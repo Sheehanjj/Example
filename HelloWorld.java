@@ -2,6 +2,8 @@
 
 package helloworld;
 
+// Added some new stuff here!
+
 import java.util.Scanner;
 
 public class HelloWorld {
